@@ -2,10 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Data Science Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- [App icon causal analysis](https://dragonlee97.github.io/App-icon/)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -17,10 +16,9 @@
 
 ---
 
-### Category Name 2
+### Others
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [My PowerBI Galary](https://app.powerbi.com/view?r=eyJrIjoiZjhhNmUwYjctZGFlMi00ZGM4LWFlODItNzhhNDBiYTdlYmM1IiwidCI6ImViNWZjMGY0LTIxNjEtNDBkOC04NDkyLTUxNTk0MjQ0OTc5MyIsImMiOjEwfQ%3D%3D)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
