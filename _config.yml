@@ -1,11 +1,11 @@
 title: Delong LI # your name (or website title) here
 logo: "/images/photo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <h1 style="font-size:18px;font-family:verdana">5+ years studying and working experience as Data Scientist. Proficient in Python, SQL, Git, Docker, Airflow, PowerBI. </h1>
+  <p style="font-size:18px;font-family:verdana">5+ years studying and working experience as Data Scientist. Proficient in Python, SQL, Git, Docker, Airflow, PowerBI. </p>
   <br><br>
-  <h1 style="font-size:18px;font-family:verdana">Fields of interest: NLP, Recommender System, Computer Vision. </h1>
+  <p style="font-size:18px;font-family:verdana">Fields of interest: NLP, Recommender System, Computer Vision. </p>
   <br><br>
-  <a href="https://www.linkedin.com/in/delongli/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/delongli/"> My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 
