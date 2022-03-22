@@ -11,13 +11,10 @@
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Python OOP Programming
 - [LinkedIN profile classification engine](/pdf/linkedin_project.pdf)
-<img src="images/oop.png?raw=true" width="400" height="300">
+<img src="images/OOP.png?raw=true" width="400" height="400">
 
 
 ### Others
