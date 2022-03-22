@@ -15,10 +15,12 @@
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
+### Python OOP Programming
+- [LinkedIN profile classification engine](/pdf/linkedin_project.pdf)
+<img src="images/oop.png?raw=true" width="400" height="300">
+
 
 ### Others
-
 - [My PowerBI Galary](https://app.powerbi.com/view?r=eyJrIjoiZjhhNmUwYjctZGFlMi00ZGM4LWFlODItNzhhNDBiYTdlYmM1IiwidCI6ImViNWZjMGY0LTIxNjEtNDBkOC04NDkyLTUxNTk0MjQ0OTc5MyIsImMiOjEwfQ%3D%3D)
 <img src="images/powerbi.png?raw=true" width="400" height="300">
 - [Project 3 Title](http://example.com/)
