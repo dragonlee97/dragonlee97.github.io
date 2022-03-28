@@ -9,13 +9,14 @@
 [Rebranding for Bokan Restaurant](https://github.com/dragonlee97/Capgemini_DataCamp2020_Group3)
 - Algos & Tech: LDA, Word2vec,TF-IDF
 <img src="images/wordcloud.png" width="400" height="200">
-<img src="images/airflow.png" width="400" height="200">
+
 
 -------
 ### Python OOP Programming
 [LinkedIN profile classification engine](/pdf/linkedin_project.pdf)
 - Tech Stack: Python, Docker, RESTAPI, Airflow
 <img src="images/OOP.png?raw=true" width="400" height="400">
+<img src="images/airflow.png" width="400" height="200">
 
 -------
 ### Others
