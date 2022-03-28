@@ -11,7 +11,7 @@
 [Rebranding for Bokan Restaurant](https://github.com/dragonlee97/Capgemini_DataCamp2020_Group3)
 - Algos & Tech: LDA, Word2vec,TF-IDF
 <img src="images/wordcloud.png" width="400" height="200">
-
+<img src="images/airflow.png" width="400" height="200">
 
 ### Python OOP Programming
 [LinkedIN profile classification engine](/pdf/linkedin_project.pdf)
