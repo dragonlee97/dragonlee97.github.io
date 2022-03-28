@@ -8,7 +8,7 @@
 
 [Rebranding for Bokan Restaurant](https://github.com/dragonlee97/Capgemini_DataCamp2020_Group3)
 - Algos & Tech: LDA, Word2vec,TF-IDF
-<img src="images/wordcloud.png" width="400" height="300">
+<img src="images/worldcloud.png" width="400" height="250">
 
 
 -------
