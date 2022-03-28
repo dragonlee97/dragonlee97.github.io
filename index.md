@@ -2,7 +2,7 @@
 
 -------
 ### Data Science Projects
-[App icon causal analysis](https://dragonlee97.github.io/App-icon/)
+[App icon causal analysis](https://github.com/dragonlee97/App-icon)
 - Algos & Tech: OCR, Mask R-CNN, Propensity Score Matching
 <img src="images/roadmap.png?raw=true" width="300" height="400">
 
