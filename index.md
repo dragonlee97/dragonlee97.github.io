@@ -11,6 +11,9 @@
 - Algos & Tech: LDA, Word2vec,TF-IDF
 <img src="images/worldcloud.png" width="400" height="250">
 
+### [Monitoring Concreting Operations](/pdf/monitoring_eleven_consulting.pdf)
+- Algos & Tech: Mask R-CNN, Gantt
+<img src="images/chantier.png" width="400" height="280">
 
 -------
 ## Python OOP Programming
