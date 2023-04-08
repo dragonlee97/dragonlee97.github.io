@@ -16,7 +16,7 @@
 <img src="images/chantier.png" width="400" height="280">
 
 -------
-## Python OOP Programming
+## Python MicroService
 ### [LinkedIN profile classification engine](/pdf/linkedin_project.pdf)
 - (I will update as github repo very soon)
 - Tech Stack: Python, Docker, RESTAPI, Airflow
@@ -24,7 +24,7 @@
 <img src="images/airflow.png" width="400" height="200">
 
 -------
-## Others
+## BI dashboards
 ### [My PowerBI Galary](https://app.powerbi.com/view?r=eyJrIjoiZjhhNmUwYjctZGFlMi00ZGM4LWFlODItNzhhNDBiYTdlYmM1IiwidCI6ImViNWZjMGY0LTIxNjEtNDBkOC04NDkyLTUxNTk0MjQ0OTc5MyIsImMiOjEwfQ%3D%3D)
 <img src="images/powerbi.png?raw=true" width="400" height="300">
 
