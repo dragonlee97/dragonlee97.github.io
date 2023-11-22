@@ -1,11 +1,11 @@
 title: Delong LI # your name (or website title) here
-logo: "/images/photo.jpg?raw=true" # your photo (or logo) here
+logo: "/images/photo_sahara.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <b style="font-size:18px">Intro:</b>
-  <p style="font-size:18px;font-family:verdana">5+ years studying and working experience as Data Scientist. Proficient in Python, SQL, Git, Docker, Airflow, PowerBI. </p>
+  <p style="font-size:18px;font-family:verdana">2+ years working experience as Data Engineer & Data Scientist. Proficient in Python, SQL, Git, Docker, Airflow, PowerBI. </p>
   <br><br>
   <b style="font-size:18px">Fields of interest:</b>
-  <p style="font-size:18px;font-family:verdana">Cloud, NLP, Recommender System, Computer Vision</p>
+  <p style="font-size:18px;font-family:verdana">ETL pipelines, Cloud, NLP, Recommender System</p>
   <br><br>
   <a href="https://www.linkedin.com/in/delongli/"> My LinkedIn Profile</a> 
   
