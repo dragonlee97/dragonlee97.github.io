@@ -20,7 +20,6 @@
 -------
 ## Python MicroService
 ### [LinkedIN profile classification engine](/pdf/linkedin_project.pdf)
-- (I will update as github repo very soon)
 - Tech Stack: Python, Docker, RESTAPI, Airflow
 <img src="images/OOP.png?raw=true" width="400" height="400">
 <img src="images/airflow.png" width="400" height="200">
