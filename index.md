@@ -3,7 +3,7 @@
 -------
 ## Data Engineering
 ### [Airflow ELT example DAG](https://github.com/dragonlee97/ELT-Pipeline)
-<img src="images/elt.png?raw=true" width="400" height="200>
+<img src="images/elt.png?raw=true" width="400" height="200">
 
 ## Data Science Projects
 ### [App icon causal analysis](https://github.com/dragonlee97/App-icon)
