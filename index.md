@@ -3,6 +3,7 @@
 -------
 ## Data Engineering
 ### [Airflow ELT example DAG](https://github.com/dragonlee97/ELT-Pipeline)
+- I summarized and keep update data engineering good practices in this example dag
 <img src="images/elt.png?raw=true" width="400" height="200">
 
 ## Data Science Projects
