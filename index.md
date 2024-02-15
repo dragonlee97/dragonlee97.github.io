@@ -7,6 +7,10 @@
 - I summarize and keep updating data engineering good practices in this example dag
 <img src="images/elt.png?raw=true" width="400" height="200">
 
+### [Data Modelling](https://github.com/dragonlee97/Carpooling)
+- Data modelling exercise of both OLTP and OLAP 
+<img src="images/modelling.png?raw=true" width="300" height="300">
+
 ## Data Science Projects
 ### [LinkedIN profile classification engine](/pdf/linkedin_project.pdf)
 - Stacks: Python, Docker, REST API, Airflow, AWS, Postgres
